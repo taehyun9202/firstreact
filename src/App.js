@@ -24,6 +24,10 @@ function App() {
       <PersonCard firstName = "John" lastName = "Smith" age = "68" hairColor = "Brown"/>
       <PersonCard firstName = "Millard" lastName = "Fillmore" age = "50" hairColor = "Brown"/>
       <PersonCard firstName = "Maria" lastName = "Smith" age = "62" hairColor = "Brown"/>
+    {/* <FunctionalPersonCard firstName = "Jane" lastName = "Doe" age = {45} hairColor = "Black"/>
+      <FunctionalPersonCard firstName = "John" lastName = "Smith" age = {68} hairColor = "Brown"/>
+      <FunctionalPersonCard firstName = "Millard" lastName = "Fillmore" age = {50} hairColor = "Brown"/>
+      <FunctionalPersonCard firstName = "Maria" lastName = "Smith" age = {62} hairColor = "Brown"/> */}
     </div>
   );
 }
