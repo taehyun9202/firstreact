@@ -1,7 +1,8 @@
 import React from 'react';
 import './App.css';
 import HelloWorld from './components/HelloWorld';
-import PersonCard from './components/PersonCard';
+import PersonCard from './components/PersonCard'; // personalcard
+import FunctionalPersonCard from './components/FunctionalPersonCard'; // functionalpersoncard
 
 
 // --Helloworld--
